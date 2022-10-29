@@ -8,7 +8,7 @@
 
 ⬜️ 02 JS and CSS Clock
 
-⬜️ 03 CSS Variables
+✅ 03 CSS Variables
 
 ⬜️ 04 Array Cardio Day 1
 
