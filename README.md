@@ -1,7 +1,6 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+[﻿![](https://javascript30.com/images/JS3-social-share.png)](https://JavaScript30.com)
 
 # JavaScript30 Challenge
-👉 Full course [here](https://JavaScript30.com)
 
 ## Challenges
 
