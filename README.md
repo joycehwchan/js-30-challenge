@@ -4,7 +4,7 @@
 
 ## Challenges
 
-⬜️ 01 JavaScript Drum Kit
+✅ 01 JavaScript Drum Kit
 
 ⬜️ 02 JS and CSS Clock
 
