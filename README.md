@@ -54,7 +54,7 @@
 
 ⬜️ 26 Stripe Follow Along Nav
 
-⬜️ 27 Click and Drag
+✅ 27 Click and Drag
 
 ⬜️ 28 Video Speed Controller
 
