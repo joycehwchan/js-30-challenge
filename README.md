@@ -2,8 +2,6 @@
 
 # JavaScript30 Challenge
 
-## Challenges
-
 ✅ 01 JavaScript Drum Kit
 
 ✅ 02 JS and CSS Clock
