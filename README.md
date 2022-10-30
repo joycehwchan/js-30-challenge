@@ -6,7 +6,7 @@
 
 ✅ 01 JavaScript Drum Kit
 
-⬜️ 02 JS and CSS Clock
+✅ 02 JS and CSS Clock
 
 ✅ 03 CSS Variables
 
