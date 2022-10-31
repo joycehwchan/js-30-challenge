@@ -16,7 +16,7 @@
 
 ✅ 07 Array Cardio Day 2
 
-⬜️ 08 Fun with HTML5 Canvas
+✅ 08 Fun with HTML5 Canvas
 
 ⬜️ 09 Dev Tools Domination
 
