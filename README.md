@@ -12,7 +12,7 @@
 
 ✅ 05 Flex Panel Gallery
 
-⬜️ 06 Type Ahead
+✅ 06 Type Ahead
 
 ✅ 07 Array Cardio Day 2
 
