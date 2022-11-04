@@ -14,22 +14,22 @@ const findMatches = (wordToMatch, cities) => {
   });
 };
 
-function numberWithCommas(x) {
+const numberWithCommas = (x) => {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-}
+};
 
-function displayMatches() {
-  const matchArray = findMatches(this.value, cities);
+const displayMatches = (e) => {
+  const matchArray = findMatches(e.currentTarget.value, cities);
   const html = matchArray
     .map((place) => {
-      const regex = new RegExp(this.value, "gi");
+      const regex = new RegExp(e.currentTarget.value, "gi");
       const cityName = place.city.replace(
         regex,
-        `<span class="hl">${this.value}</span>`
+        `<span class="hl">${e.currentTarget.value}</span>`
       );
       const stateName = place.state.replace(
         regex,
-        `<span class="hl">${this.value}</span>`
+        `<span class="hl">${e.currentTarget.value}</span>`
       );
       return `
     <li>
@@ -40,7 +40,7 @@ function displayMatches() {
     })
     .join("");
   suggestions.innerHTML = html;
-}
+};
 
 const searchInput = document.querySelector(".search");
 const suggestions = document.querySelector(".suggestions");
