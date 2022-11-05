@@ -2,15 +2,15 @@ const checkboxes = document.querySelectorAll('.inbox [type="checkbox"]');
 
 let lastChecked;
 
-function handleCheck(e) {
+const handleCheck = (e) => {
   let inBetween = false;
 
   // check if shift key is down
   // and check if they are checking it
-  if (e.shiftKey && this.checked) {
+  if (e.shiftKey && e.currentTarget.checked) {
     // 💡 Loop through every checkbox
     checkboxes.forEach((checkbox) => {
-      if (checkbox === this || checkbox === lastChecked) {
+      if (checkbox === e.currentTarget || checkbox === lastChecked) {
         inBetween = !inBetween; // toggle!
         console.log("checking inbetween...");
       }
@@ -22,8 +22,8 @@ function handleCheck(e) {
   }
 
   // 💡 Save the last checked
-  lastChecked = this;
-}
+  lastChecked = e.currentTarget;
+};
 
 checkboxes.forEach((checkbox) =>
   checkbox.addEventListener("click", handleCheck)
