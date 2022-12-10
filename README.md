@@ -24,7 +24,7 @@
 
 ⬜️ 11 Custom Video Player
 
-⬜️ 12 Key Sequence Detection
+✅ 12 Key Sequence Detection
 
 ⬜️ 13 Slide in on Scroll
 
@@ -50,7 +50,7 @@
 
 ✅ 24 Sticky Nav
 
-⬜️ 25 Event Capture, Propagation, Bubbling and Once
+✅ 25 Event Capture, Propagation, Bubbling and Once
 
 ⬜️ 26 Stripe Follow Along Nav
 
