@@ -18,7 +18,7 @@
 
 ✅ 08 Fun with HTML5 Canvas
 
-⬜️ 09 Dev Tools Domination
+✅ 09 Dev Tools Domination
 
 ✅ 10 Hold Shift and Check Checkboxes
 
