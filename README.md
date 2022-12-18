@@ -34,7 +34,7 @@
 
 ✅ 16 Mouse Move Shadow
 
-⬜️ 17 Sort Without Articles
+✅ 17 Sort Without Articles
 
 ⬜️ 18 Adding Up Times with Reduce
 
