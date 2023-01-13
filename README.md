@@ -22,7 +22,7 @@
 
 ✅ 10 Hold Shift and Check Checkboxes
 
-⬜️ 11 Custom Video Player
+✅ 11 Custom Video Player
 
 ✅ 12 Key Sequence Detection
 
