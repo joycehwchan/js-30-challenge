@@ -28,7 +28,7 @@
 
 ✅ 13 Slide in on Scroll
 
-⬜️ 14 JavaScript References VS Copyin
+✅ 14 JavaScript References VS Copyin
 
 ⬜️ 15 LocalStorage
 
