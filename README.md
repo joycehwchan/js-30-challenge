@@ -28,7 +28,7 @@
 
 ✅ 13 Slide in on Scroll
 
-✅ 14 JavaScript References VS Copyin
+✅ 14 JavaScript References VS Copying
 
 ⬜️ 15 LocalStorage
 
@@ -52,7 +52,7 @@
 
 ✅ 25 Event Capture, Propagation, Bubbling and Once
 
-⬜️ 26 Stripe Follow Along Nav
+✅ 26 Stripe Follow Along Nav
 
 ✅ 27 Click and Drag
 
